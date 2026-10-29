@@ -23,7 +23,7 @@ Python • Tkinter GUI
 ### Diamond Price Prediction
 
 [Python • Machine Learning • Multiple Linear Regression]
-[🚀 Live Demo — Try the App](https://diamondpriceprediction1-8asghnuuvnmxpt8vhcwaxa.streamlit.app/)
+[🚀 Live Demo — Try the App](https://diamondpriceprediction1-8asghnuuvnmxpt8vhcwaxa.streamlit.app/) .
 [View Source Code](https://github.com/shikshatiwari598-star/Diamond_Price_Prediction1)
 
 ---
@@ -31,7 +31,7 @@ Python • Tkinter GUI
 ### Student Marks Prediction
 
 Python • Machine Learning
-[🚀 Live Demo — Try the App](https://shikshatiwari598-star-studentmarksmodel-5dmekhqkbtvg3w6yaqqgiz.streamlit.app/)
+[🚀 Live Demo — Try the App](https://shikshatiwari598-star-studentmarksmodel-5dmekhqkbtvg3w6yaqqgiz.streamlit.app/) .
 [View Source Code](https://github.com/shikshatiwari598-star/shikshatiwari598-star-Student_marks_model)
 
 ---
