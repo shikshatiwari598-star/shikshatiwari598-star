@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Shiksha Tiwari!
 
-<!--
-**shikshatiwari598-star/shikshatiwari598-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Python Developer | Machine Learning Learner | Web Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I enjoy building websites, Python applications, and Machine Learning projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+
+### 🎮 My Gaming Website
+A gaming website built using HTML, CSS, and JavaScript.
+
+### 🐍 Python Calculator
+A simple calculator built using Python and Tkinter.
+
+### 💎 Diamond Price Prediction
+A Machine Learning project that predicts diamond prices using Multiple Linear Regression.
+
+### 📚 Student Marks Prediction
+A Machine Learning project that predicts students' marks using study-related data.
+
+## 🛠️ Technologies
+Python • HTML • CSS • JavaScript • Machine Learning • GitHub
+
+
+
+---
+⭐ Thanks for visiting my profile!
