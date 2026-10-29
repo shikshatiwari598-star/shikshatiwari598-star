@@ -25,3 +25,11 @@ Python • HTML • CSS • JavaScript • Machine Learning • GitHub
 
 ---
 ⭐ Thanks for visiting my profile!
+
+
+## 🔗 Explore My Projects
+
+- 🎮 [My Gaming Website](https://github.com/shikshatiwari598-star/gaming-website)
+- 🐍 [Python Calculator](https://github.com/shikshatiwari598-star/python-calculator)
+- 💎 [Diamond Price Prediction](https://github.com/shikshatiwari598-star/Diamond_Price_Prediction1)
+- 📚 [Student Marks Prediction](https://github.com/shikshatiwari598-star/shikshatiwari598-star-Student_marks_model)
